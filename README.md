@@ -1,2 +1,2 @@
 # Netflix-Dashboard
-Power Bi Dashboard
+Power Bi Dashboard of netflix tilte database
